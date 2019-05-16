@@ -1,2 +1,2 @@
 # aws-elastic-beanstalk-gzip
-How to add gzip to AWS Elastic Beanstalk.
+How to add gzip to AWS Elastic Beanstalk with Apache.
